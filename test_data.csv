@@ -1,0 +1,7 @@
+user_id,amount,location,device
+1,100,IN,Android
+2,120,IN,Android
+3,130,US,iOS
+4,115,IN,Android
+5,100000,RU,Linux
+6,110,IN,iOS
